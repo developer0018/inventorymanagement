@@ -46,7 +46,7 @@ public class activity1 extends AppCompatActivity implements LoaderManager.Loader
     private Button Multiply;
     private EditText Result;
 
-    String [] items = {"Carrot","Oil","Biscuits","Potato","Tomato","Brinjal","Sugar","Salt","Wheat","Chocolates","Chips","Soft Drinks","Cakes","Horlicks","Boost","Pen","Ink","Notebooks","Sheets","Paper","Shampoo","Onion","Vegetables","Fruits","Apple","Orange","Amla","Curry leaves","Banana","Egg"};
+    String [] items = {""};//Add your items(optional)
     private String picturePath = "";
 
     private static int RESULT_LOAD_IMAGE = 1;
